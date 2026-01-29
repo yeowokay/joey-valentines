@@ -15,17 +15,17 @@ export default function Page() {
       "No",
       "Are you sure?",
       "What if I asked really nicely?",
-      "Pretty pwease",
+      "Pretty please",
       "With a subway cookie on top",
       "What about a hot koi",
       "PLEASE BABY",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to yeow keng's ghost",
-      "please babe",
+      "Ok ur talking to yeow keng's ghost",
+      "Please babe",
       ":((((",
-      "PRETTY PLEASE",
-      "No :(",
+      "PRETTY PLEASEEE",
+      "Oi",
     ];
 
     return phrases[Math.min(noCount, phrases.length - 1)];
