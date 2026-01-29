@@ -15,18 +15,16 @@ export default function Page() {
       "No",
       "Are you sure?",
       "What if I asked really nicely?",
-      "Pretty please",
-      "With a chocolate rice cake on top",
-      "What about a matcha frostie",
-      "PLEASE POOKIE",
-      "But :*(",
+      "Pretty pwease",
+      "With a subway cookie on top",
+      "What about a hot koi",
+      "PLEASE BABY",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to nathan's ghost",
+      "ok ur talking to yeow keng's ghost",
       "please babe",
       ":((((",
       "PRETTY PLEASE",
-      "Estoy muerto",
       "No :(",
     ];
 
@@ -37,14 +35,14 @@ export default function Page() {
     <div className="-mt-16 flex h-screen flex-col items-center justify-center">
       {yesPressed ? (
         <>
-          <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-          <div className="my-4 text-4xl font-bold">WOOOOOO!!! I love you pookie!! ;))</div>
+          <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/kakao-friends-maltese-2/sticker_18.gif?2c6fdcc4309d47e71508a6c75bf97f0f&d=200x200" />
+          <div className="my-4 text-4xl font-bold">YAYAYAY!!! I love you baby!!</div>
         </>
       ) : (
         <>
           <img
             className="h-[200px]"
-            src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
+            src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/kakao-friends-maltese-2/sticker_14.gif?2c6fdcc4309d47e71508a6c75bf97f0f&d=200x200"
           />
           <h1 className="my-4 text-4xl">Will you be my Valentine?</h1>
           <div className="flex items-center">
